@@ -3,7 +3,7 @@
 This project demonstrates my data entry and data cleaning skills using Microsoft Excel. It features a simulated customer order dataset that progresses from raw, unstructured data to a fully cleaned and formatted table ready for analysis and reporting.
 
 ## File Included
-- `customer-order-data.xlsx` – Contains three sheets:
+- `customer-order-data-v2.xlsx` – Contains three sheets:
   - Raw Data
   - Cleaned Data
   - Summary
